@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @RandomCraftr, a professional in aerospace industry, delivering applied mathematics for aircraft and space probes for 15+ years
+- 👀 I’m interested in crafting, both hardware and software. When I do not weld kid's car, I code a little for fun and to disseminate better complex maths to the general public.
+- 🌱 I’m currently learning SAT solvers, microPython on Raspberry Pico, and how to cook my own canned food.
+- 💞️ I’m looking to collaborate on: better disseminate safe maths and machine learning to the general public.
+- 📫 How to reach me : contact.randomcraftr@gmail.com or visit http://randomcraftr.com- 
